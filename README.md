@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bruno CB.</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="center">- 🌱 I’m currently learning **AEM**</p>
+<p align="center">- 🌱 I’m currently AEM developer</p>
 
 <p align="center">- 📫 How to reach me **brunocorona@live.com**</p>
 
